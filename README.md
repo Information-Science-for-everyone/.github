@@ -1,4 +1,5 @@
-# .github
+![Alt text](https://github.com/Information-Science-for-everyone/.github/blob/main/ISfE.png)
+
 # Welcome to iSFE (Information Science for Everyone)
 
 ## You need an information expert?
