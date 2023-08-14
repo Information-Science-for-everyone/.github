@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Information-Science-for-everyone/.github/blob/main/ISfE.png" width="20%"/>
+  <img src="https://github.com/Information-Science-for-everyone/.github/blob/main/ISfE.png" width="30%"/>
 </p>
 
 # Welcome to ISFE (Information Science for Everyone)
